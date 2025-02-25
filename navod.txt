@@ -1,0 +1,20 @@
+Otevřít složku kam chci dát git repo
+Kliknout pravým ve složce a dát open git bash
+zadat: git clone "HHTPS adresa z gitrepa"
+
+zadat cd a dostat se do složky z repa
+
+udělám změny
+
+
+git add .
+git commit -m "text zpravy"
+
+kontrola zda jsem ve spravnem miste
+git remote -v
+
+git push origin main
+
+
+nahrání nejnovější verze z githubu
+git pull origin main
